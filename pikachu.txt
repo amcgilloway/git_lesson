@@ -1,2 +1,3 @@
 move : thunderbolt
 move : lightning
+move : SUPER LIGHTNING
